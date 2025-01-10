@@ -1,0 +1,123 @@
+.repository-details-page {
+    max-width: 1012px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+.app-title {
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.back-link {
+    background: none;
+    border: none;
+    padding: 0;
+    color: #0366d6;
+    font-size: 14px;
+    cursor: pointer;
+    margin-bottom: 16px;
+    display: block;
+}
+
+.repository-details {
+    background: white;
+    border-radius: 6px;
+    padding: 24px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.label {
+    display: block;
+    color: #586069;
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+
+.repository-name {
+    font-size: 32px;
+    margin-bottom: 16px;
+    color: #24292e;
+}
+
+.verified-info {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #22863a;
+    font-size: 14px;
+    margin-bottom: 16px;
+}
+
+.verified-badge {
+    font-weight: bold;
+}
+
+.verification-link {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.verification-link:hover {
+    text-decoration: underline;
+}
+
+.setup-button {
+    background-color: #2ea44f;
+    color: white;
+    border: 1px solid rgba(27,31,35,0.15);
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-bottom: 24px;
+}
+
+.setup-button:hover {
+    background-color: #2c974b;
+}
+
+.repository-description {
+    color: #24292e;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 24px;
+}
+
+.categories-label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.category-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.category-tag {
+    display: inline-block;
+    padding: 4px 8px;
+    font-size: 12px;
+    color: #0366d6;
+    background-color: #f1f8ff;
+    border-radius: 3px;
+}
+
+.verification-link {
+    color: #0366d6;
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.verification-link:hover {
+    text-decoration: underline;
+}
