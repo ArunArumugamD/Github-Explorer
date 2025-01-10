@@ -84,5 +84,4 @@ A web application that allows users to explore GitHub users, their repositories,
 ## Deployment
 The application is deployed on Render:
 
-1. Frontend URL: [Your frontend URL]
-2. Backend URL: [Your backend URL]
+https://github-explorer-frontend.onrender.com/
